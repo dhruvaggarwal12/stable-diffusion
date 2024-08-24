@@ -1,1 +1,1 @@
-auth_token="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"
+auth_token="HUGGING FACE TOKEN"
